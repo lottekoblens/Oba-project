@@ -23,13 +23,13 @@ main {
   padding: 2rem;
 }
 
-:-webkit-any(article, aside, nav, section) h1 {
+#main-nav > h1 {
   padding-left: 2rem;
   color: #ff0000;
   font-size: 3em;
 }
 
-:-webkit-any(article, aside, nav, section) h1 > span {
+#main-nav > h1 > span {
   display: inline-block;
   transform: rotate(-90deg);
 }
