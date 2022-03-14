@@ -20,9 +20,7 @@ fetch('../voeding.json')
 // render data
 function render(data) {
   const results = data;
-  const array = Object.values(results);
-  console.dir(array);
-  array.forEach((item, i) => {
+  results.forEach((item, i) => {
     const html = `
             <article>
               <h2>${item.titles[0]}</h2>
