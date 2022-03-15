@@ -1,6 +1,8 @@
 import { renderData, renderDataOpenLeerMateriaal } from './render.js';
+import { loadingState } from './ui.js';
 
 export const getData = (searchValue) => {
+  loadingState();
   const cors = 'https://cors-anywhere.herokuapp.com/';
   const endpoint = 'https://zoeken.oba.nl/api/v1/search/?q=';
   // const query = 'voeding';
@@ -46,6 +48,7 @@ export const getData = (searchValue) => {
 };
 
 export const getDataOpenLeermateriaal = () => {
+  loadingState();
   fetch(
     'https://obaliquid.staging.aquabrowser.nl/onderwijs/api/v1/search/?q=voeding+NOT+lom.lifecycle.contribute.publisher%3Dwikipedia&authorization=76f45dfa187d66be5fd6af05573eab04'
   )

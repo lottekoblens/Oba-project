@@ -47,11 +47,16 @@ article + article {
 }
 
 article img {
-  height: 15rem;
+  height: 20rem;
 }
 
 article div {
   display: none;
+}
+
+article > h2 {
+  font-size: 1em;
+  width: 25vmin;
 }
 
 section::-webkit-scrollbar {
@@ -64,4 +69,44 @@ section::-webkit-scrollbar-thumb {
 }
 section::-webkit-scrollbar-track {
   background: transparent;
+}
+
+/* loading state */
+.loading {
+  display: none;
+  position: absolute;
+  top: 50vmin;
+  left: 45vw;
+  font-size: 2em;
+}
+
+.loading-true {
+  display: block;
+}
+
+.loading-ring {
+  display: inline-block;
+  width: 5em;
+  height: 5em;
+}
+
+.loading-ring:after {
+  content: ' ';
+  display: block;
+  width: 4em;
+  height: 4em;
+  margin: 0.5em;
+  border-radius: 50%;
+  border: 0.4em solid #d9574e;
+  border-color: rgb(0, 0, 0) transparent rgb(0, 0, 0) transparent;
+  animation: loading-ring 1.2s linear infinite;
+}
+
+@keyframes loading-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }

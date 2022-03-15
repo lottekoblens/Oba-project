@@ -1,4 +1,7 @@
+import { removeLoadingState } from './ui.js';
+
 export const renderData = (data) => {
+  removeLoadingState();
   const main = document.querySelector('main');
   const section = document.querySelector('section:nth-of-type(1)');
   const results = data.results;
@@ -19,6 +22,7 @@ export const renderData = (data) => {
 };
 
 export const renderDataOpenLeerMateriaal = (data) => {
+  removeLoadingState();
   const section = document.querySelector('section:nth-of-type(1)');
   const results = data.results;
   console.dir(results);
