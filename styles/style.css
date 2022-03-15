@@ -33,3 +33,35 @@ nav > h1 > span {
   display: inline-block;
   transform: rotate(-90deg);
 }
+
+section {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+article + article {
+  margin-left: 1rem;
+}
+
+article img {
+  height: 15rem;
+}
+
+article div {
+  display: none;
+}
+
+section::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+section::-webkit-scrollbar-thumb {
+  background: black;
+  border-radius: 10px;
+}
+section::-webkit-scrollbar-track {
+  background: transparent;
+}

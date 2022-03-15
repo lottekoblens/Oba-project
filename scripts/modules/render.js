@@ -1,15 +1,38 @@
 export const renderData = (data) => {
   const main = document.querySelector('main');
+  const section = document.querySelector('section:nth-of-type(1)');
   const results = data.results;
   console.dir(results);
   results.forEach((item, i) => {
     const html = `
               <article>
-                <h2>${item.titles[0]}</h2>
+              <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
+              <h2>${item.titles[0]}</h2>
+              <div>
+                
                 <p>${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
-                <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
+              <div>
               </article>
             `;
-    main.insertAdjacentHTML('beforeend', html);
+    section.insertAdjacentHTML('afterbegin', html);
+  });
+};
+
+export const renderDataOpenLeerMateriaal = (data) => {
+  const section = document.querySelector('section:nth-of-type(1)');
+  const results = data.results;
+  console.dir(results);
+  results.forEach((item, i) => {
+    const html = `
+              <article>
+              <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
+              <h2>${item.titles[0]}</h2>
+              <div>
+                
+                <p>${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
+              <div>
+              </article>
+            `;
+    section.insertAdjacentHTML('afterbegin', html);
   });
 };
