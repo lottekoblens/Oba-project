@@ -16,6 +16,7 @@ export const renderData = (data) => {
                   <p>${item.authors[0]}</p>
                   <h3>Samenvatting:</h3>
                   <p> ${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
+                  <a href="${item.detailLink}">Details op OBA website</a>
                 <div>
               </article>
             `;
@@ -47,7 +48,7 @@ export const renderDataDiet = (data) => {
   });
 };
 
-export const renderDataHealthyNutrition = (data) => {
+export const renderDataSport = (data) => {
   removeLoadingState();
 
   const section = document.querySelector('section:nth-of-type(3)');
@@ -63,6 +64,7 @@ export const renderDataHealthyNutrition = (data) => {
                   <p>${item.authors[0]}</p>
                   <h3>Samenvatting:</h3>
                   <p> ${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
+                  <a href="${item.detailLink}">Details op OBA website</a>
                 <div>
               </article>
             `;

@@ -1,4 +1,4 @@
-import { renderData, renderDataOpenLeerMateriaal, renderDataDiet, renderDataHealthyNutrition } from './render.js';
+import { renderData, renderDataOpenLeerMateriaal, renderDataDiet, renderDataSport } from './render.js';
 import { loadingState } from './ui.js';
 
 export const getDataNutrition = () => {
@@ -77,7 +77,7 @@ export const getDataDiet = () => {
     });
 };
 
-export const getDataHealthyNutrition = () => {
+export const getDataSport = () => {
   loadingState();
   const cors = 'https://cors-anywhere.herokuapp.com/';
   const endpoint = 'https://zoeken.oba.nl/api/v1/search/?q=';
@@ -98,7 +98,7 @@ export const getDataHealthyNutrition = () => {
     })
     .then((data) => {
       data = data.results;
-      renderDataHealthyNutrition(data);
+      renderDataSport(data);
     })
     .catch((err) => {
       console.log(err);
@@ -107,7 +107,7 @@ export const getDataHealthyNutrition = () => {
           return response.json();
         })
         .then((data) => {
-          renderDataHealthyNutrition(data);
+          renderDataSport(data);
         })
         .catch((err) => {
           console.error(err);

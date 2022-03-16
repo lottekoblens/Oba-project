@@ -1,7 +1,6 @@
-import { getDataDiet, getDataHealthyNutrition, getDataNutrition, getDataOpenLeermateriaal } from './fetch.js';
+import { getDataDiet, getDataSport, getDataNutrition, getDataOpenLeermateriaal } from './fetch.js';
 import '../vendor/routie.min.js';
 import { showMoreInfo } from './ui.js';
-import { setDetails } from './details.js';
 
 export const handleRoutes = () => {
   const baseURL =
@@ -10,7 +9,7 @@ export const handleRoutes = () => {
     '': () => {
       getDataNutrition();
       getDataDiet();
-      getDataHealthyNutrition();
+      getDataSport();
       getDataOpenLeermateriaal();
 
       showMoreInfo();
