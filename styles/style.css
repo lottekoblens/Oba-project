@@ -52,7 +52,7 @@ header > h1 {
 
 header > h1 > span {
   display: inline-block;
-  transform: rotate(-90deg);
+  transform: rotate(-90deg) translateY(-0.1em) translateX(-0.1em);
   font-family: 'font-two', 'Avenir', sans-serif;
 }
 
