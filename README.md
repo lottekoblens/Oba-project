@@ -8,7 +8,6 @@ A prototype to find sources about nutrition and sport.
 * [Features](https://github.com/lottekoblens/Oba-project#high_brightness-features)
 * [Data](https://github.com/lottekoblens/Oba-project#file_folder-data)
 * [Installation](https://github.com/lottekoblens/Oba-project#wrench-installation)
-* [Process](https://github.com/lottekoblens/Oba-project#chart_with_upwards_trend-process)
 * [Wishlist](https://github.com/lottekoblens/Oba-project#pencil-wishlist)
 * [Resources](https://github.com/lottekoblens/Oba-project#open_file_folder-resources)
 * [License](https://github.com/lottekoblens/Oba-project#bookmark-license)
