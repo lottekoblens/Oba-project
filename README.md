@@ -3,15 +3,15 @@
 A prototype to find sources about nutrition and sport.
 
 ## :bookmark_tabs: Table of contents
-* [Demo](https://github.com/lottekoblens/foodchecker#computer-demo)
-* [Concept](https://github.com/lottekoblens/foodchecker#bulb-concept)
-* [Features](https://github.com/lottekoblens/foodchecker#high_brightness-features)
-* [Data](https://github.com/lottekoblens/foodchecker#file_folder-data)
-* [Installation](https://github.com/lottekoblens/foodchecker#wrench-installation)
-* [Process](https://github.com/lottekoblens/foodchecker#chart_with_upwards_trend-process)
-* [Wishlist](https://github.com/lottekoblens/foodchecker#pencil-wishlist)
-* [Resources](https://github.com/lottekoblens/foodchecker#open_file_folder-resources)
-* [License](https://github.com/lottekoblens/foodchecker#bookmark-license)
+* [Demo](https://github.com/lottekoblens/Oba-project#computer-demo)
+* [Concept](https://github.com/lottekoblens/Oba-project#bulb-concept)
+* [Features](https://github.com/lottekoblens/Oba-project#high_brightness-features)
+* [Data](https://github.com/lottekoblens/Oba-project#file_folder-data)
+* [Installation](https://github.com/lottekoblens/Oba-project#wrench-installation)
+* [Process](https://github.com/lottekoblens/Oba-project#chart_with_upwards_trend-process)
+* [Wishlist](https://github.com/lottekoblens/Oba-project#pencil-wishlist)
+* [Resources](https://github.com/lottekoblens/Oba-project#open_file_folder-resources)
+* [License](https://github.com/lottekoblens/Oba-project#bookmark-license)
 
 ## :computer: Demo
 
