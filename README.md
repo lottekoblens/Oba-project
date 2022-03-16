@@ -37,7 +37,7 @@ The data that is used comes from the OBA.
 
 1. Clone this repository by putting this in your terminal:
 
-`git clone `
+`git clone https://github.com/lottekoblens/Oba-project.git`
 
 2. Use live server or open the index.html file in the browser to use the application.
 
