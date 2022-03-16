@@ -46,4 +46,4 @@ The data that is used comes from the OBA.
 
 ## :bookmark: License
 
-This repository has the [MIT](https://github.com/lottekoblens/foodchecker/blob/main/LICENSE) license.
+This repository has the [MIT](https://github.com/lottekoblens/Oba-project/blob/main/LICENSE) license.
