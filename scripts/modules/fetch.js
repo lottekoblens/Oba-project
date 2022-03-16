@@ -1,7 +1,7 @@
-import { renderData, renderDataOpenLeerMateriaal } from './render.js';
+import { renderData, renderDataOpenLeerMateriaal, renderDataDiet } from './render.js';
 import { loadingState } from './ui.js';
 
-export const getData = (searchValue) => {
+export const getDataNutrition = () => {
   loadingState();
   const cors = 'https://cors-anywhere.herokuapp.com/';
   const endpoint = 'https://zoeken.oba.nl/api/v1/search/?q=';
@@ -9,8 +9,7 @@ export const getData = (searchValue) => {
   const secret = '3374c8bacbdd81eef70e7bb33d451efd';
   const detail = 'Default';
   const pagesize = '20';
-  let query;
-  searchValue ? (query = searchValue) : (query = 'voeding');
+  const query = 'voeding';
   const url = `${cors}${endpoint}${query}&authorization=${key}&detaillevel=${detail}&pagesize=${pagesize}&output=json`;
 
   const config = {
@@ -28,7 +27,7 @@ export const getData = (searchValue) => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('../../voeding.json')
+      fetch('../../nutrition.json')
         .then((response) => {
           return response.json();
         })
@@ -41,12 +40,55 @@ export const getData = (searchValue) => {
     });
 };
 
+export const getDataDiet = () => {
+  loadingState();
+  const cors = 'https://cors-anywhere.herokuapp.com/';
+  const endpoint = 'https://zoeken.oba.nl/api/v1/search/?q=';
+  const key = 'ffbc1ededa6f23371bc40df1864843be';
+  const secret = '3374c8bacbdd81eef70e7bb33d451efd';
+  const detail = 'Default';
+  const pagesize = '20';
+  const query = 'dieet';
+  const url = `${cors}${endpoint}${query}&authorization=${key}&detaillevel=${detail}&pagesize=${pagesize}&output=json`;
+
+  const config = {
+    Authorization: `Bearer ${secret}`,
+  };
+
+  fetch(url, config)
+    .then((response) => {
+      console.log(response);
+      return response.json();
+    })
+    .then((data) => {
+      data = data.results;
+      renderDataDiet(data);
+    })
+    .catch((err) => {
+      console.log(err);
+      fetch('../../diet.json')
+        .then((response) => {
+          return response.json();
+        })
+        .then((data) => {
+          renderDataDiet(data);
+        })
+        .catch((err) => {
+          console.error(err);
+        });
+    });
+};
+
 export const getDataOpenLeermateriaal = () => {
   loadingState();
-  fetch(
-    'https://obaliquid.staging.aquabrowser.nl/onderwijs/api/v1/search/?q=voeding+NOT+lom.lifecycle.contribute.publisher%3Dwikipedia&authorization=76f45dfa187d66be5fd6af05573eab04'
-  )
+  const url =
+    'https://obaliquid.staging.aquabrowser.nl/onderwijs/api/v1/search/?q=voeding+NOT+lom.lifecycle.contribute.publisher%3Dwikipedia&authorization=76f45dfa187d66be5fd6af05573eab04';
+  // const config = {
+  //   mode: 'no-cors',
+  // };
+  fetch(url)
     .then((response) => {
+      console.log(response, 'response open');
       return response.json();
     })
     .then((data) => {

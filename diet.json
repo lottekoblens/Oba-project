@@ -1,0 +1,1210 @@
+[
+  {
+    "id": "|oba-catalogus|1132912",
+    "frabl": {
+      "key1": "het normale dieet",
+      "key2": "esmee kohler",
+      "cnt": "1",
+      "value": "2C7F56ACC9F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Esmee-Kohler/Het-normale-dieet/Boek/?itemid=%7coba-catalogus%7c1132912",
+    "titles": ["Het normale dieet", "Het normale dieet / Esmee Köhler"],
+    "isbn": ["=9789000344314", "=9789000344512"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=383659736&isbn=9789000344314&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/383659736&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Esmee Köhler"],
+    "authorsDetailed": [
+      {
+        "full": "Esmee Köhler",
+        "firstname": "Esmee",
+        "lastname": "Köhler",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2015",
+    "publisher": ["Spectrum, [Houten], 2015"],
+    "subject-topical": ["Voedingsleer", "Vermageringsrecepten"],
+    "languages": ["Nederlands"],
+    "summaries": ["Vermageringsboek gebaseerd op minder calorierijke voeding, bewuster eten, kleinere porties en variëren. Met eenvoudige recepten."],
+    "description": ["159 pagina's", "159 pagina's: illustraties ; 22 cm"],
+    "note": "Op omslag: maak je niet dik. - Met literatuuropgave, register",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het normale dieet",
+          "key2": "esmee kohler",
+          "cnt": "1",
+          "value": "2C7F56ACC9F360A0"
+        }
+      ]
+    },
+    "siso": ["629.55"]
+  },
+  {
+    "id": "|oba-catalogus|1235216",
+    "frabl": {
+      "key1": "het sirtfood dieet",
+      "key2": "aidan goggins",
+      "cnt": "2",
+      "value": "610FAC97B5F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Aidan-Goggins/Het-sirtfood-dieet/Boek/?itemid=%7coba-catalogus%7c1235216",
+    "titles": ["Het sirtfood dieet", "Het sirtfood dieet / Aidan Goggins & Glenn Matten"],
+    "isbn": ["=9789000355136"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=428661890&isbn=9789000355136&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/428661890&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Aidan Goggins", "Glenn Matten", "Astrid Werumeus Buning"],
+    "authorsDetailed": [
+      {
+        "full": "Aidan Goggins",
+        "firstname": "Aidan",
+        "lastname": "Goggins",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Glenn Matten",
+        "lastname": "Glenn Matten",
+        "localized-type": "Auteur",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Astrid Werumeus Buning",
+        "lastname": "Astrid Werumeus Buning",
+        "localized-type": "Vertaler",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2020",
+    "publisher": ["Uitgeverij Unieboek | Het Spectrum bv. Houten, Amsterdam, 2020"],
+    "subject-topical": ["Vermageringsdiëten"],
+    "languages": ["Nederlands", "Engels"],
+    "description": ["279 pagina's", "279 pagina's ; 22 cm"],
+    "note": "Vertaling van: The sirt food diet : the revolutionary plan for health & weight loss. - Yellow Kite, (c)2016",
+    "undup": {
+      "alsoAvailableAsCount": "2",
+      "items": [
+        {
+          "key1": "het sirtfood dieet",
+          "key2": "aidan goggins",
+          "cnt": "2",
+          "value": "610FAC97B5F360A0"
+        }
+      ]
+    },
+    "siso": ["628.85"]
+  },
+  {
+    "id": "|oba-catalogus|358250",
+    "frabl": {
+      "key1": "het 3d dieet",
+      "key2": "karl lagerfeld",
+      "cnt": "1",
+      "value": "4AF19F7BAFF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Karl-Lagerfeld/Het-3D-dieet/Boek/?itemid=%7coba-catalogus%7c358250",
+    "titles": [
+      "Het 3D dieet",
+      "Het 3D dieet / Karl Lagerfeld, Jean-Claude Houdret ; Ingrid Sischy interviewt Karl Lagerfeld ; vert. uit het Duits door Wiet de Klerk ; [foto's: Karl Lagerfeld]"
+    ],
+    "isbn": ["9058470903"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=269113452&isbn=9789058470904&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/269113452&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Karl Lagerfeld", "Jean-Claude Houdret", "Ingrid Sischy", "Wiet de Klerk"],
+    "authorsDetailed": [
+      {
+        "full": "Karl Lagerfeld",
+        "firstname": "Karl",
+        "lastname": "Lagerfeld",
+        "creatortype": "person"
+      },
+      {
+        "full": "Jean-Claude Houdret",
+        "lastname": "Jean-Claude Houdret",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Ingrid Sischy",
+        "lastname": "Ingrid Sischy",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Wiet de Klerk",
+        "lastname": "Wiet de Klerk",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2004",
+    "publisher": ["Byblos, Amsterdam, 2004"],
+    "subject-topical": ["Vermageringsdiëten"],
+    "languages": ["Nederlands", "Duits"],
+    "summaries": ["Beschrijving van de medische en sociale kanten van obesitas en het 3D dieet, met recepten."],
+    "description": ["222 p", "222 p: ill ; 21 cm"],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het 3d dieet",
+          "key2": "karl lagerfeld",
+          "cnt": "1",
+          "value": "4AF19F7BAFF360A0"
+        }
+      ]
+    },
+    "siso": ["628.85"]
+  },
+  {
+    "id": "|oba-catalogus|618707",
+    "frabl": {
+      "key1": "gl dieet het logische vervolg op het gi dieet",
+      "key2": "antony worrall thompson",
+      "cnt": "1",
+      "value": "4FE1309107F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Antony-Worrall-Thompson/GL-dieet-het-logische-vervolg-op-het-GI-dieet/Boek/?itemid=%7coba-catalogus%7c618707",
+    "titles": ["GL-dieet : het logische vervolg op het GI-dieet", "GL-dieet : het logische vervolg op het GI-dieet / Antony Worrall Thompson"],
+    "isbn": ["9043908134=9789043908139"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=29640697X&isbn=9789043908139&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/29640697X&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Antony Worrall Thompson", "Mabel Blades", "Marthe Philipse", "Nienke van Bemmel"],
+    "authorsDetailed": [
+      {
+        "full": "Antony Worrall Thompson",
+        "firstname": "Antony Worrall",
+        "lastname": "Thompson",
+        "creatortype": "person"
+      },
+      {
+        "full": "Mabel Blades",
+        "lastname": "Mabel Blades",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Marthe Philipse",
+        "lastname": "Marthe Philipse",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Nienke van Bemmel",
+        "lastname": "Nienke van Bemmel",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2006",
+    "publisher": ["Tirion, Baarn, 2006"],
+    "subject-topical": ["Vermageringsdiëten"],
+    "languages": ["Nederlands", "Engels"],
+    "description": ["160 p", "160 p: ill ; 24 cm"],
+    "note": "Vert. van: GL diet made simple. - London : Kyle Cathie, cop. 2006",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "gl dieet het logische vervolg op het gi dieet",
+          "key2": "antony worrall thompson",
+          "cnt": "1",
+          "value": "4FE1309107F360A0"
+        }
+      ]
+    },
+    "siso": ["628.85"]
+  },
+  {
+    "id": "|oba-catalogus|1223517",
+    "frabl": {
+      "key1": "het leningrad dieet",
+      "key2": "wlada kolosowa",
+      "cnt": "1",
+      "value": "62C033ABC1F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Wlada-Kolosowa/Het-Leningrad-dieet/Boek/?itemid=%7coba-catalogus%7c1223517",
+    "titles": ["Het Leningrad-dieet", "Het Leningrad-dieet / Wlada Kolosowa"],
+    "isbn": ["=9789044541229"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=422435783&isbn=9789044541229&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/422435783&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Wlada Kolosowa", "Elbert Besaris"],
+    "authorsDetailed": [
+      {
+        "full": "Wlada Kolosowa",
+        "firstname": "Wlada",
+        "lastname": "Kolosowa",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Elbert Besaris",
+        "lastname": "Elbert Besaris",
+        "localized-type": "Vertaler",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2019",
+    "publisher": ["De Geus, Amsterdam, [2019]"],
+    "languages": ["Nederlands", "Duits"],
+    "summaries": [
+      "Twee meisjes, die opgroeien in een arm voorstadje in Rusland, slapen vaak samen en raken elkaar stiekem aan; wanneer de een als model vertrekt, begint de ander aan het Leningrad-dieet; eten wat ze vroeger tijdens de hongerblokkade aten."
+    ],
+    "description": ["253 pagina's", "253 pagina's ; 22 cm"],
+    "note": "Vertaling van: Fliegende Hunde. - Berlijn : Ullstein fünf, (c)2018",
+    "collection": "IHLIA",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het leningrad dieet",
+          "key2": "wlada kolosowa",
+          "cnt": "1",
+          "value": "62C033ABC1F360A0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "|oba-catalogus|1117604",
+    "frabl": {
+      "key1": "het anti age dieet",
+      "key2": "helen vlassara",
+      "cnt": "1",
+      "value": "31B1AB96D6F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Helen-Vlassara/Het-anti-AGE-dieet/Boek/?itemid=%7coba-catalogus%7c1117604",
+    "titles": ["Het anti AGE dieet", "Het anti AGE dieet / prof. dr. Helen Vlassara"],
+    "isbn": ["=9789079142187"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=374536856&isbn=9789079142187&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/374536856&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Helen Vlassara", "Sandra Woodruff", "Dick van Alkemade", "Pim Christiaans", "Maya Frijn"],
+    "authorsDetailed": [
+      {
+        "full": "Helen Vlassara",
+        "firstname": "Helen",
+        "lastname": "Vlassara",
+        "creatortype": "person"
+      },
+      {
+        "full": "Sandra Woodruff",
+        "lastname": "Sandra Woodruff",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Dick van Alkemade",
+        "lastname": "Dick van Alkemade",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Pim Christiaans",
+        "lastname": "Pim Christiaans",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Maya Frijn",
+        "lastname": "Maya Frijn",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2014",
+    "publisher": ["Uitgeverij CocoBooks, Amsterdam, [2014]"],
+    "subject-topical": ["Voedingsleer", "Dieetrecepten"],
+    "languages": ["Nederlands", "Engels"],
+    "description": ["301 pagina's", "301 pagina's: illustraties ; 23 cm"],
+    "note": "Vertaling van: The AGE-less way. - (c)2011",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het anti age dieet",
+          "key2": "helen vlassara",
+          "cnt": "1",
+          "value": "31B1AB96D6F360A0"
+        }
+      ]
+    },
+    "siso": ["629.5"]
+  },
+  {
+    "id": "|oba-catalogus|1183542",
+    "frabl": {
+      "key1": "het relax dieet",
+      "key2": "jacqueline van lieshout",
+      "cnt": "1",
+      "value": "3EC0B17956F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Jacqueline-van-Lieshout/Het-relax-dieet/Boek/?itemid=%7coba-catalogus%7c1183542",
+    "titles": ["Het relax dieet", "Het relax dieet / Jacqueline van Lieshout"],
+    "isbn": ["=9789000357437", "=9789000359363"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=410916722&isbn=9789000357437&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/410916722&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Jacqueline van Lieshout"],
+    "authorsDetailed": [
+      {
+        "full": "Jacqueline van Lieshout",
+        "firstname": "Jacqueline",
+        "lastname": "Lieshout",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2017",
+    "publisher": ["Spectrum, Houten, 2017"],
+    "subject-topical": ["Vermageren", "Gezondheidsgidsen", "Voedingsleer", "Levenskunst", "Huishoudelijke voorlichting"],
+    "languages": ["Nederlands"],
+    "summaries": [
+      "Programma van zes weken waarin stap voor stap toegewerkt wordt naar meer rust, regelmaat en ontspanning. Het idee is dat door stress aan te pakken afvallen min of meer als vanzelf volgt zonder strenge dieetregels."
+    ],
+    "description": ["207 pagina's", "207 pagina's: illustraties ; 24 cm"],
+    "note": "Met literatuuropgave",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het relax dieet",
+          "key2": "jacqueline van lieshout",
+          "cnt": "1",
+          "value": "3EC0B17956F360A0"
+        }
+      ]
+    },
+    "siso": ["615"]
+  },
+  {
+    "id": "|oba-catalogus|1212382",
+    "frabl": {
+      "key1": "het scandi sense dieet het eenvoudigste dieet ter wereld",
+      "key2": "suzy wengel",
+      "cnt": "1",
+      "value": "9E86DA40FF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Suzy-Wengel/Het-Scandi-Sense-dieet-het-eenvoudigste/Boek/?itemid=%7coba-catalogus%7c1212382",
+    "titles": [
+      "Het Scandi Sense dieet : het eenvoudigste dieet ter wereld",
+      "Het Scandi Sense dieet : het eenvoudigste dieet ter wereld / Suzy Wengel"
+    ],
+    "isbn": ["=9789024583898"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=420517391&isbn=9789024583898&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/420517391&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Suzy Wengel", "Nicole Joosse"],
+    "authorsDetailed": [
+      {
+        "full": "Suzy Wengel",
+        "firstname": "Suzy",
+        "lastname": "Wengel",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Nicole Joosse",
+        "lastname": "Nicole Joosse",
+        "localized-type": "Vertaler",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2018",
+    "publisher": ["Uitgeverij Luitingh-Sijthoff, Amsterdam, [2018]"],
+    "subject-topical": ["Vermageringsrecepten"],
+    "languages": ["Nederlands", "Deens"],
+    "summaries": [
+      "Gezonde maaltijden met veel groenten, om 400 tot 800 gram per week af te vallen. Gemiddeld bevatten ze per dag 1500 calorieen voor vrouwen en 2000 calorieen voor mannen."
+    ],
+    "description": ["239 pagina's", "239 pagina's: illustraties ; 25 cm"],
+    "note": "Vertaling van: The Scandi Sense diet. - London : Mitchell Beazley, 2018. - Oorspronkelijke titel: Sense. - København : J/P Politikens Hus A/S, (c)2017",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het scandi sense dieet het eenvoudigste dieet ter wereld",
+          "key2": "suzy wengel",
+          "cnt": "1",
+          "value": "9E86DA40FF360A0"
+        }
+      ]
+    },
+    "siso": ["629.55"]
+  },
+  {
+    "id": "|oba-catalogus|589203",
+    "frabl": {
+      "key1": "het ware dieet",
+      "key2": "sondra ray",
+      "cnt": "1",
+      "value": "36F240FA00F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Sondra-Ray/Het-ware-dieet/Boek/?itemid=%7coba-catalogus%7c589203",
+    "titles": ["Het ware dieet", "Het ware dieet / Sondra Ray ; vert. [uit het Engels door]: Hilde Bervoets ; red. Hans Delyser en Maja Hamoen"],
+    "isbn": ["907245510X"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=05068969X&isbn=9789072455109&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/05068969X&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Sondra Ray", "Hilde Bervoets", "Hans Delyser"],
+    "authorsDetailed": [
+      {
+        "full": "Sondra Ray",
+        "firstname": "Sondra",
+        "lastname": "Ray",
+        "creatortype": "person"
+      },
+      {
+        "full": "Hilde Bervoets",
+        "lastname": "Hilde Bervoets",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Hans Delyser",
+        "lastname": "Hans Delyser",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "1989",
+    "publisher": ["De Zaak, Groningen, 1989"],
+    "subject-topical": ["Vermageren", "Psychologische aspecten"],
+    "languages": ["Nederlands", "Engels"],
+    "summaries": ["Adviezen om door middel van psychotherapeutische oefeningen te vermageren."],
+    "description": ["143 p", "143 p ; 23 cm"],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het ware dieet",
+          "key2": "sondra ray",
+          "cnt": "1",
+          "value": "36F240FA00F360A0"
+        }
+      ]
+    },
+    "siso": ["628.85"]
+  },
+  {
+    "id": "|oba-catalogus|1024809",
+    "frabl": {
+      "key1": "het south beach dieet",
+      "key2": "arthur agatston",
+      "cnt": "2",
+      "value": "5ECFB0A3B9F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Arthur-Agatston/Het-South-Beach-dieet/Boek/?itemid=%7coba-catalogus%7c1024809",
+    "titles": ["Het South Beach dieet", "Het South Beach dieet / Arthur Agatston"],
+    "isbn": ["9789049104139"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=33903940X&isbn=9789049104139&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/33903940X&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Arthur Agatston", "Anna van Wittenberghe"],
+    "authorsDetailed": [
+      {
+        "full": "Arthur Agatston",
+        "firstname": "Arthur",
+        "lastname": "Agatston",
+        "creatortype": "person"
+      },
+      {
+        "full": "Anna van Wittenberghe",
+        "lastname": "Anna van Wittenberghe",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2011",
+    "publisher": ["Spectrum, Houten, 2011"],
+    "subject-topical": ["Vermageringsdièeten", "Vermageringsrecepten"],
+    "languages": ["Nederlands", "Engels"],
+    "summaries": [
+      "Een niet al te moeilijk dieet, gebaseerd op een Amerikaans voedingspatroon met aandacht voor de Nederlandse situatie, waarmee in drie fasen een blijvend gewichtsverlies haalbaar is."
+    ],
+    "description": ["352 p", "352 p ; 21 cm"],
+    "note": "Vert. van: The South Beach diet. - London : Headline Book, cop. 2003",
+    "undup": {
+      "alsoAvailableAsCount": "2",
+      "items": [
+        {
+          "key1": "het south beach dieet",
+          "key2": "arthur agatston",
+          "cnt": "2",
+          "value": "5ECFB0A3B9F360A0"
+        }
+      ]
+    },
+    "siso": ["628.85"]
+  },
+  {
+    "id": "|oba-catalogus|144659",
+    "frabl": {
+      "key1": "het detox dieet",
+      "key2": "paula baillie hamilton",
+      "cnt": "1",
+      "value": "3F36C8BF68F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Paula-Baillie-Hamilton/Het-detox-dieet/Boek/?itemid=%7coba-catalogus%7c144659",
+    "titles": ["Het detox-dieet", "Het detox-dieet / Paula Baillie-Hamilton ; [vert. uit het Engels: Jaap van Spanje]"],
+    "isbn": ["9022530957"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=238093360&isbn=9789022530955&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/238093360&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Paula Baillie-Hamilton", "Jaap van Spanje"],
+    "authorsDetailed": [
+      {
+        "full": "Paula Baillie-Hamilton",
+        "firstname": "Paula",
+        "lastname": "Baillie-Hamilton",
+        "creatortype": "person"
+      },
+      {
+        "full": "Jaap van Spanje",
+        "lastname": "Jaap van Spanje",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2002",
+    "publisher": ["Forum, Amsterdam, 2002"],
+    "subject-topical": ["Vermageringsdiëten"],
+    "languages": ["Nederlands", "Engels"],
+    "description": ["381 p", "381 p: tab ; 22 cm"],
+    "note": "Met lit. opg., reg",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het detox dieet",
+          "key2": "paula baillie hamilton",
+          "cnt": "1",
+          "value": "3F36C8BF68F360A0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "|oba-catalogus|1151462",
+    "frabl": {
+      "key1": "killerbody dieet slank in 12 weken",
+      "key2": "fajah lourens",
+      "cnt": "2",
+      "value": "290E22939FF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Fajah-Lourens/Killerbody-dieet-slank-in-12-weken/Boek/?itemid=%7coba-catalogus%7c1151462",
+    "titles": ["Killerbody dieet : slank in 12 weken", "Killerbody dieet : slank in 12 weken / Fajah Lourens"],
+    "isbn": ["=9789021562681"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=402216164&isbn=9789021562681&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/402216164&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Fajah Lourens", "Anke Langelaan"],
+    "authorsDetailed": [
+      {
+        "full": "Fajah Lourens",
+        "firstname": "Fajah",
+        "lastname": "Lourens",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Anke Langelaan",
+        "lastname": "Anke Langelaan",
+        "localized-type": "Medewerker",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2016",
+    "publisher": ["Kosmos Uitgevers, Utrecht, [2016]"],
+    "subject-topical": ["Vermageren", "Vermageringsrecepten"],
+    "languages": ["Nederlands"],
+    "description": ["208 pagina's", "208 pagina's: illustraties ; 26 cm"],
+    "note": "Met literatuuropgave, register",
+    "undup": {
+      "alsoAvailableAsCount": "2",
+      "items": [
+        {
+          "key1": "killerbody dieet slank in 12 weken",
+          "key2": "fajah lourens",
+          "cnt": "2",
+          "value": "290E22939FF360A0"
+        }
+      ]
+    },
+    "siso": ["628.85"]
+  },
+  {
+    "id": "|oba-catalogus|1202124",
+    "frabl": {
+      "key1": "het pioppi dieet een lifestyleplan in 21 dagen",
+      "key2": "aseem malhotra",
+      "cnt": "1",
+      "value": "E29FFA4A7F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Aseem-Malhotra/Het-Pioppi-dieet-een-lifestyleplan-in-21-dagen/Boek/?itemid=%7coba-catalogus%7c1202124",
+    "titles": [
+      "Het Pioppi-dieet : een lifestyleplan in 21 dagen",
+      "Het Pioppi-dieet : een lifestyleplan in 21 dagen / Dr. Aseem Malhotra & Donal O'Neill"
+    ],
+    "isbn": ["=9789045216126"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=418851786&isbn=9789045216126&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/418851786&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Aseem Malhotra", "Donal O'Neill", "Mariëlle Steinpatz"],
+    "authorsDetailed": [
+      {
+        "full": "Aseem Malhotra",
+        "firstname": "Aseem",
+        "lastname": "Malhotra",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Donal O'Neill",
+        "lastname": "Donal O'Neill",
+        "localized-type": "Auteur",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Mariëlle Steinpatz",
+        "lastname": "Mariëlle Steinpatz",
+        "localized-type": "Vertaler",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2018",
+    "publisher": ["Karakter Uitgevers B.V., Uithoorn, [2018]"],
+    "subject-topical": ["Gezondheidsgidsen", "Voedingsleer", "Kookboeken"],
+    "languages": ["Nederlands", "Engels"],
+    "description": ["349 pagina's, 24 ongenummerde pagina's platen", "349 pagina's, 24 ongenummerde pagina's platen: illustraties ; 22 cm"],
+    "note": "Vertaling van: The Pioppi diet. - Londen : Penguin Books, 2017",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het pioppi dieet een lifestyleplan in 21 dagen",
+          "key2": "aseem malhotra",
+          "cnt": "1",
+          "value": "E29FFA4A7F360A0"
+        }
+      ]
+    },
+    "siso": ["615"]
+  },
+  {
+    "id": "|oba-catalogus|1221655",
+    "frabl": {
+      "key1": "het mediterrane dieet kookboek",
+      "key2": "susie theodorou",
+      "cnt": "1",
+      "value": "3AA4980989F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Susie-Theodorou/Het-mediterrane-dieet-kookboek/Boek/?itemid=%7coba-catalogus%7c1221655",
+    "titles": ["Het mediterrane dieet kookboek", "Het mediterrane dieet kookboek / Susie Theodorou"],
+    "isbn": ["=9789000368631"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=422257311&isbn=9789000368631&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/422257311&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Susie Theodorou", "John Kernick", "Uta Anderson"],
+    "authorsDetailed": [
+      {
+        "full": "Susie Theodorou",
+        "firstname": "Susie",
+        "lastname": "Theodorou",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "John Kernick",
+        "lastname": "John Kernick",
+        "localized-type": "Illustrator",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Uta Anderson",
+        "lastname": "Uta Anderson",
+        "localized-type": "Vertaler",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2019",
+    "publisher": ["Spectrum, Amsterdam, 2019"],
+    "subject-topical": ["Mediterrane recepten"],
+    "languages": ["Nederlands", "Engels"],
+    "summaries": [
+      "Kookboek met duidelijke handvatten voor het koken volgens de zeer gezonde mediterrane leefstijl,  met verse seizoensproducten en mooie extra vergine olijfolie."
+    ],
+    "description": ["191 pagina's", "191 pagina's: illustraties ; 25 cm"],
+    "note": "Vertaling van: Mediterranean : naturally nutritious recipes from the world's healthiest diet. - London : Kyle Books, (c)2018",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het mediterrane dieet kookboek",
+          "key2": "susie theodorou",
+          "cnt": "1",
+          "value": "3AA4980989F360A0"
+        }
+      ]
+    },
+    "siso": ["629.6"]
+  },
+  {
+    "id": "|oba-catalogus|1219562",
+    "frabl": {
+      "key1": "beter eten gezond genieten zonder dieet",
+      "key2": "kathrin burger",
+      "cnt": "1",
+      "value": "1D4EC0523FF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Kathrin-Burger/Beter-eten-gezond-genieten-zonder-dieet/Boek/?itemid=%7coba-catalogus%7c1219562",
+    "titles": ["Beter eten : gezond genieten zonder dieet", "Beter eten : gezond genieten zonder dieet / Kathrin Burger"],
+    "isbn": ["=9789059514362"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=422936715&isbn=9789059514362&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/422936715&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Kathrin Burger", "Vreni van Unen", "Lisa van Rens", "Nelleke Polderman"],
+    "authorsDetailed": [
+      {
+        "full": "Kathrin Burger",
+        "firstname": "Kathrin",
+        "lastname": "Burger",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Vreni van Unen",
+        "lastname": "Vreni van Unen",
+        "localized-type": "Vertaler",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Lisa van Rens",
+        "lastname": "Lisa van Rens",
+        "localized-type": "Redacteur",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Nelleke Polderman",
+        "lastname": "Nelleke Polderman",
+        "localized-type": "Medewerker",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2019",
+    "publisher": ["Consumentenbond, Den Haag, mei 2019"],
+    "subject-topical": ["Voedingsleer"],
+    "languages": ["Nederlands", "Duits"],
+    "summaries": ["Gezondere keuzes maken binnen je huidige voedingspatroon, zonder dieet."],
+    "description": ["204 pagina's", "204 pagina's: illustraties ; 18 cm"],
+    "note": "Met register",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "beter eten gezond genieten zonder dieet",
+          "key2": "kathrin burger",
+          "cnt": "1",
+          "value": "1D4EC0523FF360A0"
+        }
+      ]
+    },
+    "siso": ["628.4"]
+  },
+  {
+    "id": "|oba-catalogus|1235217",
+    "frabl": {
+      "key1": "het sirtfood dieet receptenboek",
+      "key2": "aidan goggins",
+      "cnt": "1",
+      "value": "1C68A656BEF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Aidan-Goggins/Het-sirtfood-dieet-receptenboek/Boek/?itemid=%7coba-catalogus%7c1235217",
+    "titles": ["Het sirtfood dieet receptenboek", "Het sirtfood dieet receptenboek / Aidan Goggins & Glen Matten"],
+    "isbn": ["=9789000355143"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=428662196&isbn=9789000355143&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/428662196&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Aidan Goggins", "Glen Matten", "Mark McCulloch", "Astrid Werumeus Buning"],
+    "authorsDetailed": [
+      {
+        "full": "Aidan Goggins",
+        "firstname": "Aidan",
+        "lastname": "Goggins",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Glen Matten",
+        "lastname": "Glen Matten",
+        "localized-type": "Auteur",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Mark McCulloch",
+        "lastname": "Mark McCulloch",
+        "localized-type": "Medewerker",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Astrid Werumeus Buning",
+        "lastname": "Astrid Werumeus Buning",
+        "localized-type": "Vertaler",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2020",
+    "publisher": ["Het Spectrum, Amsterdam, 2020"],
+    "subject-topical": ["Vermageringsdiëten", "Vermageringsrecepten"],
+    "languages": ["Nederlands", "Engels"],
+    "description": ["287 pagina's", "287 pagina's ; 22 cm"],
+    "note": "Vertaling van: The sirt food diet - recipe book. - Yellow Kite, (c)2016",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het sirtfood dieet receptenboek",
+          "key2": "aidan goggins",
+          "cnt": "1",
+          "value": "1C68A656BEF360A0"
+        }
+      ]
+    },
+    "siso": ["628.85"]
+  },
+  {
+    "id": "|oba-catalogus|1218715",
+    "frabl": {
+      "key1": "het brein body dieet",
+      "key2": "sara gottfried",
+      "cnt": "1",
+      "value": "5DD00B12E4F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Sara-Gottfried/Het-brein-body-dieet/Boek/?itemid=%7coba-catalogus%7c1218715",
+    "titles": ["Het brein body dieet", "Het brein body dieet / Sara Gottfried"],
+    "isbn": ["=9789402702538", "=9789402757705"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=420799516&isbn=9789402702538&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/420799516&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Sara Gottfried", "Anna van Wittenberghe"],
+    "authorsDetailed": [
+      {
+        "full": "Sara Gottfried",
+        "firstname": "Sara",
+        "lastname": "Gottfried",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Anna van Wittenberghe",
+        "lastname": "Anna van Wittenberghe",
+        "localized-type": "Vertaler",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2019",
+    "publisher": ["HarperCollins, Amsterdam, mei 2019"],
+    "subject-topical": ["Gezondheidsvoorlichting en -opvoeding", "Vrouwen"],
+    "languages": ["Nederlands", "Engels"],
+    "summaries": [
+      "Adviezen voor een gezonde levensstijl, met als uitgangspunt dat externe factoren zoals vervuilde lucht, medicatie, stress en verkeerde voeding een negatieve invloed hebben op het functioneren van het brein."
+    ],
+    "description": ["464 pagina's", "464 pagina's: illustraties ; 22 cm"],
+    "note": "Vertaling van: Brain body diet. - (c)2019",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het brein body dieet",
+          "key2": "sara gottfried",
+          "cnt": "1",
+          "value": "5DD00B12E4F360A0"
+        }
+      ]
+    },
+    "siso": ["614.2"]
+  },
+  {
+    "id": "|oba-catalogus|1126509",
+    "frabl": {
+      "key1": "en nu word ik slank jij maakt je voornemens waar zonder dieet met de 6 weken challenge gratis online begeleiding",
+      "key2": "mieke kosters",
+      "cnt": "1",
+      "value": "6961D97CC2F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Mieke-Kosters/En-nu-word-ik-slank-jij-maakt-je-voornemens/Boek/?itemid=%7coba-catalogus%7c1126509",
+    "titles": [
+      "En nú word ik slank : jij maakt je voornemens waar zónder dieet! : met de 6 weken challenge : gratis online begeleiding",
+      "En nú word ik slank : jij maakt je voornemens waar zónder dieet! : met de 6 weken challenge : gratis online begeleiding / Mieke Kosters"
+    ],
+    "isbn": ["=9789048825523"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=383765668&isbn=9789048825523&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/383765668&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Mieke Kosters"],
+    "authorsDetailed": [
+      {
+        "full": "Mieke Kosters",
+        "firstname": "Mieke",
+        "lastname": "Kosters",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2015",
+    "publisher": ["Carrera, [Amsterdam], [2015]"],
+    "subject-topical": ["Vermageren", "Psychologische aspecten"],
+    "languages": ["Nederlands"],
+    "description": ["127 pagina's", "127 pagina's: illustraties ; 23 cm"],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "en nu word ik slank jij maakt je voornemens waar zonder dieet met de 6 weken challenge gratis online begeleiding",
+          "key2": "mieke kosters",
+          "cnt": "1",
+          "value": "6961D97CC2F360A0"
+        }
+      ]
+    },
+    "siso": ["628.85"]
+  },
+  {
+    "id": "|oba-catalogus|1089423",
+    "frabl": {
+      "key1": "het 2 dagendieet 5 dagen normaal eten twee dagen op dieet",
+      "key2": "michelle harvie",
+      "cnt": "1",
+      "value": "58302B6CAAF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Michelle-Harvie/Het-2-dagendieet-5-dagen-normaal-eten-twee/Boek/?itemid=%7coba-catalogus%7c1089423",
+    "titles": [
+      "Het 2 dagendieet : 5 dagen normaal eten, twee dagen op dieet",
+      "Het 2 dagendieet : 5 dagen normaal eten, twee dagen op dieet / Michelle Harvie & Tony Howell"
+    ],
+    "isbn": ["9789021553764", "=9789021554259"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=355393433&isbn=9789021553764&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/355393433&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Michelle Harvie", "Tony Howell", "Akkie de Jong", "Kate Santon"],
+    "authorsDetailed": [
+      {
+        "full": "Michelle Harvie",
+        "firstname": "Michelle",
+        "lastname": "Harvie",
+        "creatortype": "person"
+      },
+      {
+        "full": "Tony Howell",
+        "lastname": "Tony Howell",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Akkie de Jong",
+        "lastname": "Akkie de Jong",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Kate Santon",
+        "lastname": "Kate Santon",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2013",
+    "publisher": ["Kosmos Uitgevers, Utrecht [etc.], cop. 2013"],
+    "subject-topical": ["Vermageringsdiëten", "Vermageringsrecepten"],
+    "languages": ["Nederlands", "Engels"],
+    "description": ["399 p", "399 p: ill ; 21 cm"],
+    "note": "Vert. van: The 2 day diet. - Vermillion, cop. 2013",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het 2 dagendieet 5 dagen normaal eten twee dagen op dieet",
+          "key2": "michelle harvie",
+          "cnt": "1",
+          "value": "58302B6CAAF360A0"
+        }
+      ]
+    },
+    "siso": ["628.85"]
+  },
+  {
+    "id": "|oba-catalogus|1105551",
+    "frabl": {
+      "key1": "het metabolismedieet kookboek het dieet van de sterren",
+      "key2": "haylie pomroy",
+      "cnt": "1",
+      "value": "27337676E9F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Haylie-Pomroy/Het-metabolismedieet-kookboek-het-dieet-van/Boek/?itemid=%7coba-catalogus%7c1105551",
+    "titles": [
+      "Het metabolismedieet kookboek : het dieet van de sterren",
+      "Het metabolismedieet kookboek : het dieet van de sterren / Haylie Pomroy"
+    ],
+    "isbn": ["=9789022328798"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=371060877&isbn=9789022328798&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/371060877&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235802"
+      }
+    ],
+    "authors": ["Haylie Pomroy"],
+    "authorsDetailed": [
+      {
+        "full": "Haylie Pomroy",
+        "firstname": "Haylie",
+        "lastname": "Pomroy",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2014",
+    "publisher": ["Manteau, Antwerpen, [2014]"],
+    "subject-topical": ["Vermageringsrecepten"],
+    "languages": ["Nederlands", "Engels"],
+    "description": ["288 pagina's, 16 ongenummerde pagina's platen", "288 pagina's, 16 ongenummerde pagina's platen: foto's ; 22 cm"],
+    "note": "Vertaling van: The fast metabolism diet cookbook. - (c)2013",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het metabolismedieet kookboek het dieet van de sterren",
+          "key2": "haylie pomroy",
+          "cnt": "1",
+          "value": "27337676E9F360A0"
+        }
+      ]
+    },
+    "siso": ["629.55"]
+  }
+]
