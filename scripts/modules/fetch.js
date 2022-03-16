@@ -26,7 +26,7 @@ export const getDataNutrition = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('../../nutrition.json')
+      fetch('../../localData/nutrition.json')
         .then((response) => {
           return response.json();
         })
@@ -64,7 +64,7 @@ export const getDataDiet = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('../../diet.json')
+      fetch('../../localData/diet.json')
         .then((response) => {
           return response.json();
         })
@@ -102,7 +102,7 @@ export const getDataSport = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('../../sport.json')
+      fetch('../../localData/sport.json')
         .then((response) => {
           return response.json();
         })
@@ -122,7 +122,7 @@ export const getDataOpenLeermateriaal = () => {
 
   fetch(url)
     .then((response) => {
-      console.log(response, 'response open');
+      console.log(response, 'response openLeermateriaal');
       return response.json();
     })
     .then((data) => {
