@@ -1,4 +1,4 @@
-import { getDataDiet, getDataNutrition, getDataOpenLeermateriaal } from './fetch.js';
+import { getDataDiet, getDataHealthyNutrition, getDataNutrition, getDataOpenLeermateriaal } from './fetch.js';
 import '../vendor/routie.min.js';
 import { showMoreInfo } from './ui.js';
 import { setDetails } from './details.js';
@@ -10,14 +10,10 @@ export const handleRoutes = () => {
     '': () => {
       getDataNutrition();
       getDataDiet();
+      getDataHealthyNutrition();
       getDataOpenLeermateriaal();
 
       showMoreInfo();
     },
-    // ':id': async function (id) {
-    //   const detailBook = await getData(`${baseURL}/${id}`);
-    //   console.log('data details', detailBook);
-    //   return setDetails(detailBook);
-    // },
   });
 };

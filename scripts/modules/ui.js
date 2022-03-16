@@ -9,12 +9,13 @@ export const removeLoadingState = () => {
 };
 
 export const showMoreInfo = () => {
-  const button = document.getElementById('info');
-  button.addEventListener('click', showInfo);
+  const buttons = document.getElementsByClassName('moreInformation');
+  for (const button of buttons) {
+    button.addEventListener('click', showInfo);
+  }
 };
 
 const showInfo = () => {
-  removeLoadingState();
   const divs = document.getElementsByClassName('hideDiv');
   for (const div of divs) {
     div.classList.add('show');
