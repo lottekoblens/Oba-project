@@ -1,20 +1,20 @@
-import { removeLoadingState } from './ui.js';
+import { showMoreInfo, removeLoadingState } from './ui.js';
 
 export const renderData = (data) => {
   removeLoadingState();
-  const main = document.querySelector('main');
+
   const section = document.querySelector('section:nth-of-type(1)');
-  const results = data.results;
+  const results = data;
   console.dir(results);
   results.forEach((item, i) => {
     const html = `
               <article>
-              <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
-              <h2>${item.titles[0]}</h2>
-              <div>
-                
-                <p>${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
-              <div>
+                <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
+                <h2>${item.titles[0]}</h2>
+                <div class="hideDiv" id="moreInfoDiv">
+                  <p>${item.authors[0]}</p>
+                  <p>${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
+                <div>
               </article>
             `;
     section.insertAdjacentHTML('afterbegin', html);
@@ -29,12 +29,12 @@ export const renderDataOpenLeerMateriaal = (data) => {
   results.forEach((item, i) => {
     const html = `
               <article>
-              <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
-              <h2>${item.titles[0]}</h2>
-              <div>
-                
-                <p>${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
-              <div>
+                <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
+                <h2>${item.titles[0]}</h2>
+                <div>
+                  <p>${item.authors[0]}</p>
+                  <p>${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
+                <div>
               </article>
             `;
     section.insertAdjacentHTML('afterbegin', html);

@@ -5,7 +5,6 @@ export const getData = (searchValue) => {
   loadingState();
   const cors = 'https://cors-anywhere.herokuapp.com/';
   const endpoint = 'https://zoeken.oba.nl/api/v1/search/?q=';
-  // const query = 'voeding';
   const key = 'ffbc1ededa6f23371bc40df1864843be';
   const secret = '3374c8bacbdd81eef70e7bb33d451efd';
   const detail = 'Default';
@@ -18,32 +17,27 @@ export const getData = (searchValue) => {
     Authorization: `Bearer ${secret}`,
   };
 
-  // fetch('../../voeding.json')
   fetch(url, config)
     .then((response) => {
       console.log(response);
       return response.json();
     })
     .then((data) => {
+      data = data.results;
       renderData(data);
-      localStorage.setItem('data', JSON.stringify(data));
     })
     .catch((err) => {
       console.log(err);
-      if (localStorage.getItem('data')) {
-        renderData(JSON.parse(localStorage.getItem('data')));
-      } else {
-        fetch('../../voeding.json')
-          .then((response) => {
-            return response.json();
-          })
-          .then((data) => {
-            renderData(data);
-          })
-          .catch((err) => {
-            console.error(err);
-          });
-      }
+      fetch('../../voeding.json')
+        .then((response) => {
+          return response.json();
+        })
+        .then((data) => {
+          renderData(data);
+        })
+        .catch((err) => {
+          console.error(err);
+        });
     });
 };
 
