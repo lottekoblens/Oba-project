@@ -31,7 +31,7 @@ So the app makes it easier for the user to find sources that have more informati
 
 ## :file_folder: Data 
 
-
+The data that is used comes from the OBA.
 
 ## :wrench: Installation
 
