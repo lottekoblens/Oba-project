@@ -26,7 +26,7 @@ So the app makes it easier for the user to find sources that have more informati
 
 ## :high_brightness: Features
 
-* Find sources
+* Find sources about nutrition and sport
 * See more information about sources
 
 ## :file_folder: Data 
