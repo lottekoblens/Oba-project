@@ -26,7 +26,7 @@ export const getDataNutrition = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('./../../localData/nutrition.json')
+      fetch('Oba-project/localData/nutrition.json')
         .then((response) => {
           return response.json();
         })
@@ -64,7 +64,7 @@ export const getDataDiet = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('./../..//diet.json')
+      fetch('Oba-project/localData/diet.json')
         .then((response) => {
           return response.json();
         })
@@ -102,7 +102,7 @@ export const getDataSport = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('./../..//sport.json')
+      fetch('Oba-project/localData/sport.json')
         .then((response) => {
           return response.json();
         })
