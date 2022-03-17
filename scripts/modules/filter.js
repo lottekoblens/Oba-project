@@ -8,16 +8,14 @@ export const thicknessBook = (data) => {
   if (paginas > 0 && paginas < 150) {
     const select = document.querySelectorAll('article p');
     dun.push(results);
-    return (select.innerHTML = 'Dun boek');
+    return (select.innerHTML = 'Dun boek'), dun;
   }
   if (paginas > 150 && paginas < 300) {
-    // console.log('gemiddeld');
     const select = document.querySelectorAll('article p');
     gemiddeld.push(results);
     return (select.innerHTML = 'Gemiddeld boek');
   }
   if (paginas > 300) {
-    // console.log('dik');
     const select = document.querySelectorAll('article p');
     dik.push(results);
     return (select.innerHTML = 'Dik boek');

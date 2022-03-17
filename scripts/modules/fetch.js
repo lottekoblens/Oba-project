@@ -1,4 +1,4 @@
-import { filter } from './filter.js';
+import { errorState } from './error.js';
 import { renderData, renderDataOpenLeerMateriaal, renderDataDiet, renderDataSport } from './render.js';
 import { loadingState } from './ui.js';
 
@@ -35,6 +35,7 @@ export const getDataNutrition = () => {
           renderData(data);
         })
         .catch((err) => {
+          errorState();
           console.error(err);
         });
     });
@@ -73,6 +74,7 @@ export const getDataDiet = () => {
           renderDataDiet(data);
         })
         .catch((err) => {
+          errorState();
           console.error(err);
         });
     });
@@ -111,6 +113,7 @@ export const getDataSport = () => {
           renderDataSport(data);
         })
         .catch((err) => {
+          errorState();
           console.error(err);
         });
     });
@@ -141,6 +144,7 @@ export const getDataOpenLeermateriaal = () => {
           renderDataOpenLeerMateriaal(data);
         })
         .catch((err) => {
+          errorState();
           console.error(err);
         });
     });
