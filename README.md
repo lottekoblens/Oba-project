@@ -13,7 +13,7 @@ Een prototype om bronnen te vinden over voeding en sport.
 
 ## :computer: Demo
 
-[Live demo](https://lottekoblens.github.io/OBA-project/)
+[Live demo](https://lottekoblens.github.io/Oba-project/)
 
 <img src="" width="300">
 
