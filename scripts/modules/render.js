@@ -90,7 +90,9 @@ export const renderDataOpenLeerMateriaal = (data) => {
               <article>
                 <h2>${item.titles[0]}</h2>
                 <div>
+                  <h3>Auteur:</h3>
                   <p>${item.authors[0]}</p>
+                  <h3>Samenvatting:</h3>
                   <p>${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
                 <div>
               </article>

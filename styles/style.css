@@ -51,7 +51,7 @@ header > h1 {
 }
 
 header > h1:nth-of-type(2) {
-  color: black;
+  color: rgb(0, 155, 150);
 }
 
 header {
@@ -66,11 +66,16 @@ header > h1 > span {
   font-family: 'font-two', 'Avenir', sans-serif;
 }
 
+label {
+  font-size: 2vmin;
+}
+
 select {
   border: 0.2em solid black;
   border-radius: 0.3em;
   padding: 0.3em;
   font-family: 'Avenir', sans-serif;
+  font-size: 2vmin;
 }
 
 section {
@@ -91,7 +96,8 @@ article + article {
 }
 
 article img {
-  height: 20rem;
+  height: 45vmin;
+  width: 35vmin;
 }
 
 article > div > p:first-of-type {
@@ -103,8 +109,9 @@ article > div > p:first-of-type {
 }
 
 article > h2 {
+  color: rgb(0, 155, 150);
   font-size: 2vmin;
-  width: 25vmin;
+  width: 90%;
   font-family: 'font-two', 'Avenir', sans-serif;
 }
 
@@ -129,6 +136,10 @@ section::-webkit-scrollbar-thumb {
 }
 section::-webkit-scrollbar-track {
   background: transparent;
+}
+
+section:nth-of-type(5) article {
+  min-width: 40vmin;
 }
 
 /* loading state */
@@ -187,22 +198,36 @@ section::-webkit-scrollbar-track {
   color: white;
   border: none;
   border-radius: 1em;
-  font-size: 1.8vmin;
+  font-size: 2vmin;
 }
 
 @media screen and (max-width: 990px) {
   body {
-    max-width: 80vw;
+    max-width: 90vw;
+  }
+
+  label {
+    font-size: 3vmin;
+  }
+
+  select {
+    border: 0.2em solid black;
+    border-radius: 0.3em;
+    padding: 0.3em;
+    font-family: 'Avenir', sans-serif;
+    font-size: 2.5vmin;
+  }
+
+  article > h2 {
+    font-size: 2em;
   }
 
   article > div > h3 {
-    margin-bottom: -1em;
-    font-size: 0.9vmin;
-    font-family: 'font-two', 'Avenir', sans-serif;
+    font-size: 1em;
   }
 
   article > div > p,
   article > div > a {
-    font-size: 0.8vmin;
+    font-size: 1em;
   }
 }
