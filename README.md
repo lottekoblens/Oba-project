@@ -4,6 +4,7 @@ Een prototype om bronnen te vinden over voeding en sport.
 
 ## :bookmark_tabs: Inhoud
 * [Demo](https://github.com/lottekoblens/Oba-project#computer-demo)
+* [Assessment](https://github.com/lottekoblens/Oba-project#-assessment)
 * [Concept](https://github.com/lottekoblens/Oba-project#bulb-concept)
 * [Features](https://github.com/lottekoblens/Oba-project#high_brightness-features)
 * [Data](https://github.com/lottekoblens/Oba-project#file_folder-data)
