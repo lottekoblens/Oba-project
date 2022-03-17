@@ -23,10 +23,14 @@ export const getDataNutrition = () => {
     })
     .then((data) => {
       data = data.results;
+      // because I only need the data that is stored in data.results.
+      // I set data to data.results, so I don't have to doe that every time I want to use it
       renderData(data);
     })
     .catch((err) => {
       console.log(err);
+      // because the api doesn't work well at the time of making this,
+      // the data is also stored in a local file so the data can be loaded when the api doesn't work
       fetch('nutrition.json')
         .then((response) => {
           return response.json();
@@ -36,7 +40,7 @@ export const getDataNutrition = () => {
         })
         .catch((err) => {
           errorState();
-          console.error(err);
+          console.log(err);
         });
     });
 };
@@ -62,9 +66,13 @@ export const getDataDiet = () => {
     })
     .then((data) => {
       data = data.results;
+      // because I only need the data that is stored in data.results.
+      // I set data to data.results, so I don't have to doe that every time I want to use it
       renderDataDiet(data);
     })
     .catch((err) => {
+      // because the api doesn't work well at the time of making this,
+      // the data is also stored in a local file so the data can be loaded when the api doesn't work
       console.log(err);
       fetch('diet.json')
         .then((response) => {
@@ -75,7 +83,7 @@ export const getDataDiet = () => {
         })
         .catch((err) => {
           errorState();
-          console.error(err);
+          console.log(err);
         });
     });
 };
@@ -101,10 +109,14 @@ export const getDataSport = () => {
     })
     .then((data) => {
       data = data.results;
+      // because I only need the data that is stored in data.results.
+      // I set data to data.results, so I don't have to doe that every time I want to use it
       renderDataSport(data);
     })
     .catch((err) => {
       console.log(err);
+      // because the api doesn't work well at the time of making this,
+      // the data is also stored in a local file so the data can be loaded when the api doesn't work
       fetch('sport.json')
         .then((response) => {
           return response.json();
@@ -114,7 +126,7 @@ export const getDataSport = () => {
         })
         .catch((err) => {
           errorState();
-          console.error(err);
+          console.log(err);
         });
     });
 };
@@ -126,16 +138,18 @@ export const getDataOpenLeermateriaal = () => {
 
   fetch(url)
     .then((response) => {
-      console.log(response, 'response openLeermateriaal');
       return response.json();
     })
     .then((data) => {
-      console.log(data);
       data = data.results;
+      // because I only need the data that is stored in data.results.
+      // I set data to data.results, so I don't have to doe that every time I want to use it
       renderDataOpenLeerMateriaal(data);
     })
     .catch((err) => {
       console.log(err);
+      // because the api doesn't work well at the time of making this,
+      // the data is also stored in a local file so the data can be loaded when the api doesn't work
       fetch('openLeermateriaal.json')
         .then((response) => {
           return response.json();
@@ -145,7 +159,7 @@ export const getDataOpenLeermateriaal = () => {
         })
         .catch((err) => {
           errorState();
-          console.error(err);
+          console.log(err);
         });
     });
 };

@@ -6,4 +6,5 @@ export const errorState = () => {
               </article>
             `;
   section.insertAdjacentHTML('afterbegin', html);
+  // show text of no data found when error state is called
 };
