@@ -1,8 +1,8 @@
-# OBA
+# OBA Voeding & Sport
 
-A prototype to find sources about nutrition and sport
+Een prototype om bronnen te vinden over voeding en sport.
 
-## :bookmark_tabs: Table of contents
+## :bookmark_tabs: Inhoud
 * [Demo](https://github.com/lottekoblens/Oba-project#computer-demo)
 * [Concept](https://github.com/lottekoblens/Oba-project#bulb-concept)
 * [Features](https://github.com/lottekoblens/Oba-project#high_brightness-features)
@@ -20,31 +20,32 @@ A prototype to find sources about nutrition and sport
 
 ## :bulb: Concept
 
-This web app fits the following user story: _'As a sporty twenty-something, I want to delve into the effect of a healthy diet on my condition, to learn how I can practice my sport better.'_
-So the app makes it easier for the user to find sources that have more information about nutrition and sport.
+Voor deze app ben ik aan de slag gegaan met deze user story: _'Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding op mijn conditie, om te leren hoe ik mijn sport beter kan beoefenen.'_
+
+Ik ben er dus voor gaan zorgen dat de gebruiker gemakkelijk boeken kan vinden over de onderwerpen voeding, dieet, sport en voeding & diëtiek. Daarbij kan de gebruiker er ook voor kiezen om te filteren op de dikte van de boeken. Als de gebruiker bijvoorbeeld niet echt van lezen houdt, dan zal hij sneller naar dunne boeken op zoek gaan om snel te vinden wat hij zoekt en geen uren hoeft te lezen. Maar andere mensen houden bijvoorbeeld wel van lezen en kiezen liever voor een dik boek. Dit is dan ook waarom deze filteroptie is toegevoegd.
 
 ## :high_brightness: Features
 
-* Find sources about nutrition and sport
-* See more information about sources
+* Boeken vinden over voeding, dieet, sport en voeding & diëtiek
+* Filteren op dikte van de boeken
 
 ## :file_folder: Data 
 
-The data that is used comes from the OBA.
+De data die is gebruikt is afkomstig van de API van de OBA.
 
-## :wrench: Installation
+## :wrench: Installatie
 
-1. Clone this repository by putting this in your terminal:
+Wil je dit project gebruiken, volg dan de volgende stappen:
+1. Clone de repository door het volgende in je terminal te plaatsen:
 
 `git clone https://github.com/lottekoblens/Oba-project.git`
 
-2. Use live server or open the index.html file in the browser to use the application.
+2. Gebruik live server of open the index.html file in de browser om het project te gebruiken.
 
 ## :pencil: Wishlist
 
-* Make filter function so that the other results of 'voeding', 'sport', 'dieet' will be changed (now it's set in another section)
-
+* Een filterfunctie maken waarmee de boeken in de al bestaande secties worden gefilterd (nu wordt het in een aparte sectie gezet).
 
 ## :bookmark: License
 
-This repository has the [MIT](https://github.com/lottekoblens/Oba-project/blob/main/LICENSE) license.
+Deze repository heeft de [MIT](https://github.com/lottekoblens/Oba-project/blob/main/LICENSE) license.
