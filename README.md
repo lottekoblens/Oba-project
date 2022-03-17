@@ -19,6 +19,10 @@ Home | With filter
 :-------------------------:|:-------------------------:
 ![Home](https://github.com/lottekoblens/Oba-project/blob/main/images/concept.png) | ![With filter](https://github.com/lottekoblens/Oba-project/blob/main/images/concept-filter.png)
 
+## Assessment
+
+De opdracht voor dit project is als volgt: _'Binnen het OBA thema leven lang leren willen we de Amsterdammers van zoveel mogelijk bronnen voorzien om informeel te kunnen (blijven) leren. Naast de informatieve boeken, cursussen, videos enzovoort hebben we als nieuwe bron: open leermaterialen. Dit zijn onderzoeken en andere ondersteunende materialen op mbo/hbo/wo niveau . Deze verschillende bronnen willen we graag op thema doorzoekbaar maken en zinnig vormgegeven aanbieden aan de Amsterdammers. Aan jullie dus de opdracht om de verschillende bronnen via de api doorzoekbaar te maken, en deze voor de doelgroep volwassen, aan de hand van onderstaande thema's, vormgegeven aan te bieden.'_
+
 ## :bulb: Concept
 
 Voor deze app ben ik aan de slag gegaan met deze user story: _'Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding op mijn conditie, om te leren hoe ik mijn sport beter kan beoefenen.'_
