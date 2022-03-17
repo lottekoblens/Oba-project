@@ -47,13 +47,41 @@ header > h1 {
   color: #ff0000;
   font-size: 3em;
   font-family: 'font-two', 'Avenir', sans-serif;
-  margin: 0 auto;
+  /* margin: 0 auto; */
 }
 
 header > h1 > span {
   display: inline-block;
   transform: rotate(-90deg) translateY(-0.1em) translateX(-0.1em);
   font-family: 'font-two', 'Avenir', sans-serif;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header > form {
+  padding-right: 2rem;
+}
+
+header > form > input[type='text'] {
+  border: 0.2em solid black;
+  padding: 0.7em;
+  border-radius: 1em;
+  width: 25vmin;
+  font-family: 'Avenir', sans-serif;
+}
+
+header > form > input[type='submit'] {
+  background: #ff0000;
+  border: none;
+  padding: 0.8em;
+  border-radius: 1em;
+  font-family: 'Avenir', sans-serif;
+  font-weight: bold;
 }
 
 section {
