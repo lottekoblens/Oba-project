@@ -4,6 +4,7 @@ Een prototype om bronnen te vinden over voeding en sport.
 
 ## :bookmark_tabs: Inhoud
 * [Demo](https://github.com/lottekoblens/Oba-project#computer-demo)
+* [Assessment](https://github.com/lottekoblens/Oba-project#-assessment)
 * [Concept](https://github.com/lottekoblens/Oba-project#bulb-concept)
 * [Features](https://github.com/lottekoblens/Oba-project#high_brightness-features)
 * [Data](https://github.com/lottekoblens/Oba-project#file_folder-data)
@@ -15,7 +16,13 @@ Een prototype om bronnen te vinden over voeding en sport.
 
 [Live demo](https://lottekoblens.github.io/Oba-project/)
 
-<img src="https://github.com/lottekoblens/Oba-project/blob/main/images/concept.png" width="300">
+Home | With filter 
+:-------------------------:|:-------------------------:
+![Home](https://github.com/lottekoblens/Oba-project/blob/main/images/concept.png) | ![With filter](https://github.com/lottekoblens/Oba-project/blob/main/images/concept-filter.png)
+
+## 📝 Assessment
+
+De opdracht voor dit project is als volgt: _'Binnen het OBA thema leven lang leren willen we de Amsterdammers van zoveel mogelijk bronnen voorzien om informeel te kunnen (blijven) leren. Naast de informatieve boeken, cursussen, videos enzovoort hebben we als nieuwe bron: open leermaterialen. Dit zijn onderzoeken en andere ondersteunende materialen op mbo/hbo/wo niveau . Deze verschillende bronnen willen we graag op thema doorzoekbaar maken en zinnig vormgegeven aanbieden aan de Amsterdammers. Aan jullie dus de opdracht om de verschillende bronnen via de api doorzoekbaar te maken, en deze voor de doelgroep volwassen, aan de hand van onderstaande thema's, vormgegeven aan te bieden.'_
 
 ## :bulb: Concept
 
@@ -44,6 +51,7 @@ Wil je dit project gebruiken, volg dan de volgende stappen:
 ## :pencil: Wishlist
 
 * Een filterfunctie maken waarmee de boeken in de al bestaande secties worden gefilterd (nu wordt het in een aparte sectie gezet).
+* Een detailpagina toevoegen voor elk boek.
 
 ## :bookmark: License
 
