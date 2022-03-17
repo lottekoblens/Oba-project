@@ -66,7 +66,7 @@ header > h1 > span {
 }
 
 label {
-  font-size: 2vmin;
+  font-size: 1em;
 }
 
 select {
@@ -74,7 +74,7 @@ select {
   border-radius: 0.3em;
   padding: 0.3em;
   font-family: 'Avenir', sans-serif;
-  font-size: 2vmin;
+  font-size: 1em;
 }
 
 section {
@@ -200,7 +200,7 @@ section:nth-of-type(5) article {
   font-size: 2vmin;
 }
 
-@media (max-width: 990px) {
+/* @media (max-width: 990px) {
   body {
     max-width: 90vw;
   }
@@ -233,4 +233,4 @@ section:nth-of-type(5) article {
   article > div > a {
     font-size: 0.9em;
   }
-}
+} */
