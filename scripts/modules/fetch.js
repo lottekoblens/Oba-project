@@ -27,12 +27,11 @@ export const getDataNutrition = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('../../nutrition.json')
+      fetch('../../localData/nutrition.json')
         .then((response) => {
           return response.json();
         })
         .then((data) => {
-          console.log('het werkt!!!');
           renderData(data);
         })
         .catch((err) => {
