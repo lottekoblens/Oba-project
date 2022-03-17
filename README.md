@@ -15,7 +15,7 @@ Een prototype om bronnen te vinden over voeding en sport.
 
 [Live demo](https://lottekoblens.github.io/Oba-project/)
 
-<img src="" width="300">
+<img src="https://github.com/lottekoblens/Oba-project/blob/main/images/concept.png" width="300">
 
 ## :bulb: Concept
 
