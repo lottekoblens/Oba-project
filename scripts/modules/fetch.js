@@ -27,7 +27,7 @@ export const getDataNutrition = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('../../nutrition.json')
+      fetch('/nutrition.json')
         .then((response) => {
           return response.json();
         })
