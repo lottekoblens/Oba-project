@@ -1,6 +1,6 @@
 # OBA
 
-A prototype to find sources about nutrition and sport.
+A prototype to find sources about nutrition and sport
 
 ## :bookmark_tabs: Table of contents
 * [Demo](https://github.com/lottekoblens/Oba-project#computer-demo)
