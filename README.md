@@ -15,8 +15,9 @@ Een prototype om bronnen te vinden over voeding en sport.
 
 [Live demo](https://lottekoblens.github.io/Oba-project/)
 
-<img src="https://github.com/lottekoblens/Oba-project/blob/main/images/concept.png" width="300">
-<img src="https://github.com/lottekoblens/Oba-project/blob/main/images/concept-filter.png" width="300">
+Home | With filter 
+:-------------------------:|:-------------------------:
+![Home](https://github.com/lottekoblens/Oba-project/blob/main/images/concept.png) | ![With filter](https://github.com/lottekoblens/Oba-project/blob/main/images/concept-filter.png)
 
 ## :bulb: Concept
 
