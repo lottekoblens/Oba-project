@@ -23,7 +23,6 @@ html {
 }
 
 body {
-  font-size: 1em;
   padding: 0;
   margin: 0;
   color: #000000;
@@ -201,9 +200,13 @@ section:nth-of-type(5) article {
   font-size: 2vmin;
 }
 
-@media screen and (max-width: 990px) {
+@media (max-width: 990px) {
   body {
     max-width: 90vw;
+  }
+
+  p:first-of-type {
+    font-size: 0.8em;
   }
 
   label {
@@ -219,15 +222,15 @@ section:nth-of-type(5) article {
   }
 
   article > h2 {
-    font-size: 2em;
+    font-size: 1.8em;
   }
 
   article > div > h3 {
-    font-size: 1em;
+    font-size: 0.9em;
   }
 
   article > div > p,
   article > div > a {
-    font-size: 1em;
+    font-size: 0.9em;
   }
 }
