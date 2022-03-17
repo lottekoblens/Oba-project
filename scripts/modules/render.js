@@ -1,13 +1,14 @@
 import { thicknessBook } from './filter.js';
 import { removeLoadingState } from './ui.js';
 
-export const renderData = (data) => {
+export const renderDataNutrition = (data) => {
   removeLoadingState();
 
   const section = document.querySelector('section:nth-of-type(2)');
   const results = data;
-  console.dir(results);
-  results.forEach((item, i) => {
+  // for all the data items from nutrition the image, title, author, summary, thickness book and detaillink will be rendered in an article
+  // the articles are set in a section
+  results.forEach((item) => {
     const html = `
               <article>
                 <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
@@ -31,8 +32,9 @@ export const renderDataDiet = (data) => {
 
   const section = document.querySelector('section:nth-of-type(3)');
   const results = data;
-  console.dir(results);
-  results.forEach((item, i) => {
+  // for all the data items the image, title, author, summary, thickness book and detaillink will be rendered in an article
+  // the articles are set in a section
+  results.forEach((item) => {
     const html = `
               <article>
                 <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
@@ -56,8 +58,9 @@ export const renderDataSport = (data) => {
 
   const section = document.querySelector('section:nth-of-type(4)');
   const results = data;
-  console.dir(results);
-  results.forEach((item, i) => {
+  // for all the data items the image, title, author, summary, thickness book and detaillink will be rendered in an article
+  // the articles are set in a section
+  results.forEach((item) => {
     const html = `
               <article>
                 <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
@@ -80,8 +83,9 @@ export const renderDataOpenLeerMateriaal = (data) => {
   removeLoadingState();
   const section = document.querySelector('section:nth-of-type(5)');
   const results = data.results;
-  console.dir(results);
-  results.forEach((item, i) => {
+  // for all the data items the image, title, author and summary will be rendered in an article
+  // the articles are set in a section
+  results.forEach((item) => {
     const html = `
               <article>
                 <h2>${item.titles[0]}</h2>

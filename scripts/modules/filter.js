@@ -21,6 +21,7 @@ export const thicknessBook = (data) => {
   if (paginas > 300) {
     const select = document.querySelectorAll('article p');
     thick.push(results);
+    // push the books that have more then 300 pages to variable thick
     return (select.innerHTML = 'Dik boek');
   } else {
     const select = document.querySelectorAll('article p');
@@ -32,9 +33,10 @@ export const filter = () => {
   const dropdown = document.getElementById('book-thickness');
   const h2 = document.getElementById('filterH2');
   dropdown.addEventListener('change', function () {
-    const e = document.getElementById('book-thickness');
-    let filterValue = e.value;
+    // when the dropdown changes the function is executed
+    let filterValue = dropdown.value;
     if (filterValue === 'dun') {
+      // when value of dropdown is dun, the books from the variable thin are displayed in the section
       h2.classList.remove('hidden');
       thin.forEach((item) => {
         const section = document.querySelector('section:nth-of-type(1)');
@@ -52,6 +54,7 @@ export const filter = () => {
       });
     }
     if (filterValue === 'gemiddeld') {
+      // when value of dropdown is gemiddeld, the books from the variable average are displayed in the section
       h2.classList.remove('hidden');
       average.forEach((item) => {
         const section = document.querySelector('section:nth-of-type(1)');
@@ -69,6 +72,7 @@ export const filter = () => {
       });
     }
     if (filterValue === 'dik') {
+      // when value of dropdown is dik, the books from the variable thick are displayed in the section
       h2.classList.remove('hidden');
       thick.forEach((item) => {
         const section = document.querySelector('section:nth-of-type(1)');
@@ -85,6 +89,7 @@ export const filter = () => {
         section.insertAdjacentHTML('afterbegin', html);
       });
     } else if (filterValue === 'niks') {
+      // when value of dropdown is niks, the section will be empty
       h2.classList.add('hidden');
       const section = document.querySelector('section:nth-of-type(1)');
       section.innerHTML = '';

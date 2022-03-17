@@ -1,5 +1,4 @@
-import { errorState } from './error.js';
-import { renderData, renderDataOpenLeerMateriaal, renderDataDiet, renderDataSport } from './render.js';
+import { renderDataOpenLeerMateriaal, renderDataDiet, renderDataSport, renderDataNutrition } from './render.js';
 import { loadingState } from './ui.js';
 
 export const getDataNutrition = () => {
@@ -11,11 +10,13 @@ export const getDataNutrition = () => {
   const detail = 'Default';
   const pagesize = '20';
   const query = 'voeding';
+  // with the query the books about voeding are fetched
   const url = `${cors}${endpoint}${query}&authorization=${key}&detaillevel=${detail}&pagesize=${pagesize}&output=json`;
 
   const config = {
     Authorization: `Bearer ${secret}`,
   };
+  // authorization header uses secret key for this API
 
   fetch(url, config)
     .then((response) => {
@@ -25,7 +26,7 @@ export const getDataNutrition = () => {
       data = data.results;
       // because I only need the data that is stored in data.results.
       // I set data to data.results, so I don't have to doe that every time I want to use it
-      renderData(data);
+      renderDataNutrition(data);
     })
     .catch((err) => {
       console.log(err);
@@ -36,10 +37,9 @@ export const getDataNutrition = () => {
           return response.json();
         })
         .then((data) => {
-          renderData(data);
+          renderDataNutrition(data);
         })
         .catch((err) => {
-          errorState();
           console.log(err);
         });
     });
@@ -82,7 +82,6 @@ export const getDataDiet = () => {
           renderDataDiet(data);
         })
         .catch((err) => {
-          errorState();
           console.log(err);
         });
     });
@@ -125,7 +124,6 @@ export const getDataSport = () => {
           renderDataSport(data);
         })
         .catch((err) => {
-          errorState();
           console.log(err);
         });
     });
@@ -158,7 +156,6 @@ export const getDataOpenLeermateriaal = () => {
           renderDataOpenLeerMateriaal(data);
         })
         .catch((err) => {
-          errorState();
           console.log(err);
         });
     });

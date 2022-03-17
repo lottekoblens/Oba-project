@@ -125,7 +125,7 @@ section::-webkit-scrollbar {
 }
 section::-webkit-scrollbar-thumb {
   background: black;
-  border-radius: 10px;
+  border-radius: 0.8em;
 }
 section::-webkit-scrollbar-track {
   background: transparent;
