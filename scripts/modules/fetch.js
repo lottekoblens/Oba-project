@@ -3,6 +3,7 @@ import { loadingState } from './ui.js';
 
 export const getDataNutrition = () => {
   loadingState();
+  console.log(window.location.pathname);
   const cors = 'https://cors-anywhere.herokuapp.com/';
   const endpoint = 'https://zoeken.oba.nl/api/v1/search/?q=';
   const key = 'ffbc1ededa6f23371bc40df1864843be';
@@ -26,7 +27,7 @@ export const getDataNutrition = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('../../localData/nutrition.json')
+      fetch('/nutrition.json')
         .then((response) => {
           return response.json();
         })
@@ -102,7 +103,7 @@ export const getDataSport = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('../../localData/sport.json')
+      fetch('../../../localData/sport.json')
         .then((response) => {
           return response.json();
         })
