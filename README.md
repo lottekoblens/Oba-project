@@ -7,9 +7,8 @@ Een prototype om bronnen te vinden over voeding en sport.
 * [Concept](https://github.com/lottekoblens/Oba-project#bulb-concept)
 * [Features](https://github.com/lottekoblens/Oba-project#high_brightness-features)
 * [Data](https://github.com/lottekoblens/Oba-project#file_folder-data)
-* [Installation](https://github.com/lottekoblens/Oba-project#wrench-installation)
+* [Installatie](https://github.com/lottekoblens/Oba-project#wrench-installatie)
 * [Wishlist](https://github.com/lottekoblens/Oba-project#pencil-wishlist)
-* [Resources](https://github.com/lottekoblens/Oba-project#open_file_folder-resources)
 * [License](https://github.com/lottekoblens/Oba-project#bookmark-license)
 
 ## :computer: Demo
