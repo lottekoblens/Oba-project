@@ -195,7 +195,7 @@ article > div > a {
 /* button more info */
 #info {
   margin: 1em 0;
-  padding: 1em;
+  padding: 0.7em;
   background: black;
   color: white;
   border: none;
