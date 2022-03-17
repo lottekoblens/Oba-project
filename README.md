@@ -42,6 +42,8 @@ The data that is used comes from the OBA.
 
 ## :pencil: Wishlist
 
+* Make filter function so that the other results of 'voeding', 'sport', 'dieet' will be changed (now it's set in another section)
+
 
 ## :bookmark: License
 
