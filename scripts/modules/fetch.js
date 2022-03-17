@@ -32,6 +32,7 @@ export const getDataNutrition = () => {
           return response.json();
         })
         .then((data) => {
+          console.log('het werkt!!!');
           renderData(data);
         })
         .catch((err) => {
