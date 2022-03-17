@@ -26,7 +26,7 @@ export const getDataNutrition = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('./../../localData/nutrition.json')
+      fetch('nutrition.json')
         .then((response) => {
           return response.json();
         })
@@ -64,7 +64,7 @@ export const getDataDiet = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('./../../localData/diet.json')
+      fetch('diet.json')
         .then((response) => {
           return response.json();
         })
@@ -102,7 +102,7 @@ export const getDataSport = () => {
     })
     .catch((err) => {
       console.log(err);
-      fetch('./../../localData/sport.json')
+      fetch('sport.json')
         .then((response) => {
           return response.json();
         })
@@ -118,9 +118,10 @@ export const getDataSport = () => {
 export const getDataOpenLeermateriaal = () => {
   loadingState();
   const url =
-    'https://obaliquid.staging.aquabrowser.nl/onderwijs/api/v1/search/?q=voeding+NOT+lom.lifecycle.contribute.publisher%3Dwikipedia&authorization=76f45dfa187d66be5fd6af05573eab04';
+    'https://obaliquid.staging.aquabrowser.nl/onderwijs/api/v1/search/?q=voeding+NOT+lom.lifecycle.contribute.publisher%3Dwikipedia&authorization=76f45dfa187d66be5fd6af05573eab04&output=json';
+  const config = 'no-cors';
 
-  fetch(url)
+  fetch(url, config)
     .then((response) => {
       console.log(response, 'response openLeermateriaal');
       return response.json();
