@@ -9,10 +9,7 @@
   <body>
     <header>
       <h1>ob<span>a</span></h1>
-      <form>
-        <input id="inputValue" type="text" placeholder="Zoek op boek of auteur..." />
-        <input type="submit" />
-      </form>
+      <h1>Voeding & Sport</h1>
     </header>
     <main>
       <h2>Jouw zoekbank voor boeken over voeding en sport</h2>
@@ -20,7 +17,15 @@
         Ben je lekker aan het sporten en wil je weten wat voor voeding voor jou het beste is of welke sport je het beste kunt doen? Vindt de juiste
         boeken voor jou in deze zoekbank van de OBA!
       </p>
-
+      <label for="book-thickness">Hoe dik mag het boek zijn?</label>
+      <select name="book-thickness" id="book-thickness">
+        <option value="niks" selected="selected">Geen voorkeur</option>
+        <option value="dun">Dun</option>
+        <option value="gemiddeld">Gemiddeld</option>
+        <option value="dik">Dik</option>
+      </select>
+      <h2 id="filterH2" class="hidden">Filterresultaten:</h2>
+      <section></section>
       <h2>Informatie over voeding:</h2>
       <div class="loading" id="loading"><div class="loading-ring"></div></div>
       <button class="moreInformation" id="info">Meer informatie tonen</button>
@@ -33,6 +38,7 @@
       <div class="loading" id="loading"><div class="loading-ring"></div></div>
       <button class="moreInformation" id="info">Meer informatie tonen</button>
       <section></section>
+      <h2>Informatie over voeding en diëthiek:</h2>
       <section></section>
     </main>
     <script type="module" src="scripts/app.js"></script>

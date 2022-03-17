@@ -1,3 +1,4 @@
+import { filter } from './filter.js';
 import { renderData, renderDataOpenLeerMateriaal, renderDataDiet, renderDataSport } from './render.js';
 import { loadingState } from './ui.js';
 
@@ -117,20 +118,30 @@ export const getDataSport = () => {
 
 export const getDataOpenLeermateriaal = () => {
   loadingState();
-  const url =
-    'https://obaliquid.staging.aquabrowser.nl/onderwijs/api/v1/search/?q=voeding+NOT+lom.lifecycle.contribute.publisher%3Dwikipedia&authorization=76f45dfa187d66be5fd6af05573eab04&output=json';
-  const config = 'no-cors';
+  const cors = 'https://cors-anywhere.herokuapp.com/';
+  const url = `${cors}https://obaliquid.staging.aquabrowser.nl/onderwijs/api/v1/search/?q=voeding+NOT+lom.lifecycle.contribute.publisher%3Dwikipedia&authorization=76f45dfa187d66be5fd6af05573eab04&output=json`;
 
-  fetch(url, config)
+  fetch(url)
     .then((response) => {
       console.log(response, 'response openLeermateriaal');
       return response.json();
     })
     .then((data) => {
       console.log(data);
+      data = data.results;
       renderDataOpenLeerMateriaal(data);
     })
     .catch((err) => {
       console.log(err);
+      fetch('openLeermateriaal.json')
+        .then((response) => {
+          return response.json();
+        })
+        .then((data) => {
+          renderDataOpenLeerMateriaal(data);
+        })
+        .catch((err) => {
+          console.error(err);
+        });
     });
 };

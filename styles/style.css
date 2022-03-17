@@ -50,38 +50,27 @@ header > h1 {
   /* margin: 0 auto; */
 }
 
+header > h1:nth-of-type(2) {
+  color: black;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
 header > h1 > span {
   display: inline-block;
   transform: rotate(-90deg) translateY(-0.1em) translateX(-0.1em);
   font-family: 'font-two', 'Avenir', sans-serif;
 }
 
-header {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-}
-
-header > form {
-  padding-right: 2rem;
-}
-
-header > form > input[type='text'] {
+select {
   border: 0.2em solid black;
-  padding: 0.7em;
-  border-radius: 1em;
-  width: 25vmin;
+  border-radius: 0.3em;
+  padding: 0.3em;
   font-family: 'Avenir', sans-serif;
-}
-
-header > form > input[type='submit'] {
-  background: #ff0000;
-  border: none;
-  padding: 0.8em;
-  border-radius: 1em;
-  font-family: 'Avenir', sans-serif;
-  font-weight: bold;
 }
 
 section {
@@ -184,6 +173,10 @@ section::-webkit-scrollbar-track {
 
 .show {
   display: block;
+}
+
+.hidden {
+  display: none;
 }
 
 /* button more info */
