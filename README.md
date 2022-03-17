@@ -46,6 +46,7 @@ Wil je dit project gebruiken, volg dan de volgende stappen:
 ## :pencil: Wishlist
 
 * Een filterfunctie maken waarmee de boeken in de al bestaande secties worden gefilterd (nu wordt het in een aparte sectie gezet).
+* Een detailpagina toevoegen voor elk boek.
 
 ## :bookmark: License
 
