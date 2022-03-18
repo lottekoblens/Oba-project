@@ -13,8 +13,8 @@ export const renderDataNutrition = (data) => {
               <article>
                 <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
                 <h2>${item.titles[0]}</h2>
+                <p>${item.authors[0]}</p>
                 <div class="hideDiv" id="moreInfoDiv">
-                  <p>${item.authors[0]}</p>
                   <p> ${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
                   <p id="thickness">${thicknessBook(item)}</p>
                   <a href="${item.detailLink}">Details op OBA website</a>
@@ -37,8 +37,8 @@ export const renderDataDiet = (data) => {
               <article>
                 <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
                 <h2>${item.titles[0]}</h2>
+                <p>${item.authors[0]}</p>
                 <div class="hideDiv" id="moreInfoDiv">
-                  <p>${item.authors[0]}</p>
                   <p> ${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
                   <p id="thickness">${thicknessBook(item)}</p>
                   <a href="${item.detailLink}">Details op OBA website</a>
@@ -61,8 +61,8 @@ export const renderDataSport = (data) => {
               <article>
                 <img src="${item.coverimages ? item.coverimages[1] : 'Geen samenvatting'}">
                 <h2>${item.titles[0]}</h2>
+                <p>${item.authors[0]}</p>
                 <div class="hideDiv" id="moreInfoDiv">
-                  <p>${item.authors[0]}</p>
                   <p> ${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
                   <p id="thickness">${thicknessBook(item)}</p>
                   <a href="${item.detailLink}">Details op OBA website</a>

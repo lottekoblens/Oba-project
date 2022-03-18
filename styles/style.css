@@ -121,7 +121,7 @@ article img {
   width: 35vmin;
 }
 
-article > div > p:first-of-type {
+article > p:first-of-type {
   margin-bottom: -0.5em;
   font-variant-caps: small-caps;
 }
