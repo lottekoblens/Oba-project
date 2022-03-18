@@ -37,7 +37,7 @@ Ik ben er dus voor gaan zorgen dat de gebruiker gemakkelijk boeken kan vinden ov
 
 ## :file_folder: Data 
 
-De data die is gebruikt is afkomstig van de API van de OBA.
+De data die is gebruikt is afkomstig van de API van de OBA, https://zoeken.oba.nl/api/v1/
 
 ## :wrench: Installatie
 
