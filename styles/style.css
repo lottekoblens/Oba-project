@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: 'font-one';
-  src: url('../lte50338.ttf');
+  src: url('../fonts/lte50338.ttf');
 }
 
 @font-face {
   font-family: 'font-two';
-  src: url('../lte50346.ttf');
+  src: url('../fonts/lte50346.ttf');
 }
 
 html {
