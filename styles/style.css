@@ -150,8 +150,8 @@ article > div > a {
 .loading {
   display: none;
   position: absolute;
-  top: 50vmin;
-  left: 45vw;
+  top: 60vmin;
+  left: 40vw;
   font-size: 2em;
 }
 
