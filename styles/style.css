@@ -101,8 +101,10 @@ section::-webkit-scrollbar-track {
   background: transparent;
 }
 
-section:nth-of-type(5) article {
+section article {
   min-width: 40vmin;
+  max-height: 80vmin;
+  overflow-y: scroll;
 }
 
 p:first-of-type {
