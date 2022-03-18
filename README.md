@@ -50,6 +50,7 @@ Wil je dit project gebruiken, volg dan de volgende stappen:
 
 ## :pencil: Wishlist
 
+Er zijn een aantal dingen in dit project waar ik nog niet aan toe ben gekomen, maar die ik wel had willen toevoegen:
 * Een filterfunctie maken waarmee de boeken in de al bestaande secties worden gefilterd (nu wordt het in een aparte sectie gezet).
 * Een detailpagina toevoegen voor elk boek.
 
